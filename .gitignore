@@ -9,6 +9,7 @@ proje dosyalari/*.zip
 # Asistan/yerel
 CLAUDE.md
 .claude/
+PROJE_PLANI.md
 
 # OS / editor
 .DS_Store

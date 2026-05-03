@@ -21,7 +21,6 @@ Bu repo, projenin **yazılım/teori** tarafını içerir. Donanım fazı (CAD, 3
 
 | Dosya | Açıklama |
 |---|---|
-| [`PROJE_PLANI.md`](PROJE_PLANI.md) | Kapsamlı 7 fazlı yol haritası (planlama → simülasyon → CAD → baskı → firmware → demo → paylaşım) |
 | [`01_kinematik_dinamik.md`](01_kinematik_dinamik.md) | FAZ 1 — DH konvansiyonu, dönüşüm matrisleri, FK/IK, Jakobiyen, dinamik teorisi |
 | [`02_model_DH_dinamik.md`](02_model_DH_dinamik.md) | Modelin gerçek STL/STP ölçülerinden çıkarılan **kesin DH parametreleri**, çalışma uzayı ve servo tork doğrulaması |
 | [`03_matlab_simulasyon_egitim.md`](03_matlab_simulasyon_egitim.md) | MATLAB simülasyonunun adım adım açıklaması |

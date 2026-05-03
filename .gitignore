@@ -1,0 +1,26 @@
+# 3. parti üretici dosyaları (DIY-Robotics orijinal kaynaklar — lisans nedeniyle hariç)
+proje dosyalari/DIY_Robotics_EducativeCell/
+proje dosyalari/DIY_Robotics_EducativeCell_V1_0/
+proje dosyalari/__MACOSX/
+proje dosyalari/bom.txt
+proje dosyalari/manual.txt
+proje dosyalari/*.zip
+
+# Asistan/yerel
+CLAUDE.md
+.claude/
+
+# OS / editor
+.DS_Store
+Thumbs.db
+*.swp
+*.bak
+__pycache__/
+*.pyc
+.vscode/
+.idea/
+
+# MATLAB
+*.asv
+*.m~
+slprj/
